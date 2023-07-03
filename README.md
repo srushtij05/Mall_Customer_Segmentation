@@ -22,7 +22,11 @@ Here we have the following features :
 6. Personalization and recommendation systems
 7. Evaluation and monitoring
 8. Ethical considerations
+9. Customer Feedback Analysis
 
 **CONCLUSION:**
 
 The mall customer segmentation model in machine learning serves as a powerful tool for businesses to gain a competitive advantage in the retail industry. It allows businesses to better understand and connect with their customers, optimize operational processes, and drive sustainable growth. By categorizing customers into distinct segments based on their behaviors, preferences, and characteristics, businesses can tailor their marketing strategies, improve customer experiences, and enhance overall operational efficiency. With the continuous advancement of machine learning techniques, the customer segmentation model will continue to evolve, providing even more accurate and actionable insights for businesses in the future.
+
+**Dataset**
+https://www.kaggle.com/datasets
