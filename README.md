@@ -1,5 +1,5 @@
 # Mall_Customer_Segmentation
-#PROBLEM STATEMENT:
+*PROBLEM STATEMENT:*
 To develop a machine learning model that can identify and group customers based on their shopping patterns and behavior. The model should use customer data such as age, gender, annual income, and spending score to segment customers into different groups. This segmentation will enable mall owners to target their marketing efforts more effectively, improve customer experience, and optimize their business operations.
 
 Malls or shopping complexes are often indulged in the race to increase their customers and hence making huge profits. To achieve this task machine learning is being applied by many stores already. It is amazing to realize the fact that how machine learning can aid in such ambitions. The shopping complexes make use of their customers’ data and develop ML models to target the right ones. This not only increases sales but also makes the complexes efficient.
